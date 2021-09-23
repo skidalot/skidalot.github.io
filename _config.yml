@@ -1,0 +1,15 @@
+title: 'skidalot.github.io'
+description: "Skidalot"
+baseurl: "/"
+url: "https://skidalot.github.io"
+
+header_pages:
+  - index.md
+  - about.md
+
+style: dark
+footer: '~ skidalot'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
